@@ -2,6 +2,7 @@
 A wellness analysis for students, with a dashboard visualizing health risk levels, sleep quality, study hours, and physical activity, providing actionable insights to enhance student well-being and optimize academic and lifestyle strategies.
 
 **OBSERVATIONS FROM STUDENTS’ WELLNESS ANALYSIS**
+
 **1. Heart Rate by Age of Students**
 •    Observation: The average heart rate increases with age, peaking at 71.5 bpm for 22-year-olds, and then declines to 69.5 bpm at 24 years.
 •    Implications:
